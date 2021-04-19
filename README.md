@@ -1,2 +1,4 @@
 # Channel-Icons
-[!Banner](https://channelicons.github.io/Channel-Icons/_assets/banner.png)
+![Banner](https://github.com/ChannelIcons/Channel-Icons/blob/master/_assets/banner.png)
+<br>
+A Theme Add-on to get customized channelicons.
