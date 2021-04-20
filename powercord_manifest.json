@@ -1,0 +1,9 @@
+{
+    "name": "Channel Icons",
+    "description": "A Theme Add-on to get customized channelicons.",
+    "version": "0.1",
+    "author": "Pukima#0001 & boloped.#9999",
+    "theme": "ChannelIcons.theme.css",
+    "consent": "false",
+    "license": "MIT"
+}

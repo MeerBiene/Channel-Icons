@@ -1,0 +1,11 @@
+/* Just for BetterDiscord */
+@import url("/src/defaulticons.css"); /* Remove if you jsut want custom Icons (just for specific channels. Not included by default: #github, #geeneral etc.) */
+@import url("/src/customicons.css"); /* Remove if you dont want something other than the default (#GitHub, #general etc.) */
+
+/**
+ * @name Channel Icons
+ * @description A Theme Add-on to get customized channelicons.
+ * @author Pukima#0001 & boloped.#9999
+ * @version 0.1
+ * @invite hQwYw45Cek
+ */
