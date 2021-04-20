@@ -1,3 +1,8 @@
+.mainContent-u_9PKf > div > svg[viewbox="0 0 40 40"] > path {
+	transform: scale(1.7) !important;
+
+}
+
 /* Offtopic & Ontopic Channels */
 [aria-label*="offtopic"] > div > svg > path,
 [aria-label*="off-topic"] > div > svg > path,
