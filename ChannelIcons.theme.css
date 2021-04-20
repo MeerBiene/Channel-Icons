@@ -1,6 +1,6 @@
 /* Just for BetterDiscord */
-@import url("/src/defaulticons.css"); /* Remove if you jsut want custom Icons (just for specific channels. Not included by default: #github, #geeneral etc.) */
-@import url("/src/customicons.css"); /* Remove if you dont want something other than the default (#GitHub, #general etc.) */
+@import url("https://channelicons.github.io/Channel-Icons/src/defaulticons.css"); /* Remove if you jsut want custom Icons (just for specific channels. Not included by default: #github, #geeneral etc.) */
+@import url("https://channelicons.github.io/Channel-Icons/src/customicons.css"); /* Remove if you dont want something other than the default (#GitHub, #general etc.) */
 
 /**
  * @name Channel Icons
