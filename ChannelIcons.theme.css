@@ -1,9 +1,3 @@
-/* Just for BetterDiscord */
-@import url("https://channelicons.github.io/Channel-Icons/src/defaulticons.css"); /* Remove if you jsut want custom Icons (just for specific channels. Not included by default: #github, #geeneral etc.) */
-@import url("https://channelicons.github.io/Channel-Icons/src/mdi.css"); /* MaterialDesignIcons
-/*@import url("https://channelicons.github.io/Channel-Icons/src/fa.css") FontAwesome Icons*/
-/*@import url("https://channelicons.github.io/Channel-Icons/src/fluent.css") fluent Icons*/
-
 /**
  * @name Channel Icons
  * @description A Theme Add-on to get customized channelicons.
@@ -11,3 +5,9 @@
  * @version 0.1
  * @invite hQwYw45Cek
  */
+
+/* Just for BetterDiscord */
+@import url("https://channelicons.github.io/Channel-Icons/src/defaulticons.css"); /* Remove if you jsut want custom Icons (just for specific channels. Not included by default: #github, #geeneral etc.) */
+/*@import url("https://channelicons.github.io/Channel-Icons/src/mdi.css"); MaterialDesignIcons*/
+@import url("https://channelicons.github.io/Channel-Icons/src/fa.css") /* FontAwesome Icons*/
+/*@import url("https://channelicons.github.io/Channel-Icons/src/fluent.css") fluent Icons*/
