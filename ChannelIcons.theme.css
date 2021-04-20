@@ -6,8 +6,14 @@
  * @invite hQwYw45Cek
  */
 
+@import url("https://channelicons.github.io/Channel-Icons/src/main.css");
 @import url("https://channelicons.github.io/Channel-Icons/src/customicons.css");
 @import url("https://channelicons.github.io/Channel-Icons/src/mdi.css"); /*MaterialDesignIcons*/
 /*@import url("https://channelicons.github.io/Channel-Icons/src/fa.css") FontAwesome Icons*/
 /*@import url("https://channelicons.github.io/Channel-Icons/src/fluent.css") fluent Icons*/
 @import url("https://channelicons.github.io/Channel-Icons/src/logos.css") /*Logos and Coding Language Icons*/
+
+/* vars */
+
+/* changing color of channelicons (for all) */
+--icon-color: rgba(114, 118, 125, 1);
