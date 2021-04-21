@@ -19,3 +19,9 @@
 :root {
     --icon-color: #72767d;
 }
+
+/* Fixes to small Icons on ules channel */
+.mainContent-u_9PKf > div > svg[viewbox="0 0 40 40"] > path {
+	transform: scale(1.7) !important;
+
+}
